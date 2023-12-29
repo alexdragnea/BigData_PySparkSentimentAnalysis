@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.NGram","timestamp":1702479522948,"sparkVersion":"3.5.0","uid":"NGram_a649afb09e9f","paramMap":{"inputCol":"words","n":1,"outputCol":"1_grams"},"defaultParamMap":{"n":2,"outputCol":"NGram_a649afb09e9f__output"}}
